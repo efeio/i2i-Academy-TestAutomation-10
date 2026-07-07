@@ -1,0 +1,33 @@
+# Maven build output
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+.settings/
+.classpath
+.project
+.factorypath
+.vscode/
+
+# Local build / run tools
+apache-maven-3.9.6/
+apache-jmeter-5.5/
+*.zip
+*.log
+
+# OS files
+.DS_Store
+
+# Homework documentation files (strictly excluded per guidelines Section 2.3)
+TestAutomation.docx
+TestAutomation.pdf
